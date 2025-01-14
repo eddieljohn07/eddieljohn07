@@ -3,6 +3,8 @@
 
 - 🤳🏻 I’m currently working on **Realtime FSL Interpreter**
 
+- 🧑🏻‍💻 I’m currently working on **A Coffee Chain Website**
+
 - 🧑🏻‍💻 I’m currently working on [Threatlook's AI integration](https://threatlook.netlify.app/)
 
 - 💻 Take a look at my portfolio [https://ejvelasco.netlify.app/](https://ejvelasco.netlify.app/)
