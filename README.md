@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Eddiel John Velasco</h1>
 <h3 align="center">Building innovative solutions one commit at a time</h3>
 
-- 🤳🏻 I’m currently working on **Realtime FSL Interpreter**
+<p align="center">A passionate full-stack developer crafting engaging and efficient web applications.  I thrive on turning ideas into reality, from concept to deployment.  I'm always eager to learn new technologies and contribute to exciting projects.</p>
 
-- 🧑🏻‍💻 I’m currently working on **A Coffee Chain Website**
+<h3 align="left">Currently Working On:</h3>
+<ul>
+  <li><b>Realtime FSL Interpreter</b> -  (Add a brief description here if you can)</li>
+  <li><b>A Coffee Chain Website</b> - (Add a brief description here if you can)</li>
+  <li><b><a href="https://threatlook.netlify.app/">Threatlook's AI integration</a></b> - Enhancing threat detection with intelligent algorithms.</li>
+</ul>
 
-- 🧑🏻‍💻 I’m currently working on [Threatlook's AI integration](https://threatlook.netlify.app/)
+<p align="center">Check out my portfolio: <a href="https://ejvelasco.netlify.app/">https://ejvelasco.netlify.app/</a></p>
 
-- 💻 Take a look at my portfolio [https://ejvelasco.netlify.app/](https://ejvelasco.netlify.app/)
-
-- ⚡ Fun fact **Fun fact I lift full stacks by day💪🏻 then code full stack by night💻**
+<p align="center">⚡ Fun fact: I lift full stacks by day 💪🏻 then code full stack by night 💻</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,87 +21,18 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <div style="display: flex; flex-wrap: wrap;">
-    <span style="margin-right: 10px; margin-bottom: 10px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">  <span style="margin-right: 10px; margin-bottom: 10px;">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" title="Bootstrap"/>
       </a>
     </span>
     <span style="margin-right: 10px; margin-bottom: 10px;">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      </a>
+      <a href="..." target="_blank" rel="noreferrer"> <img src="..." alt="..." width="40" height="40" title="..."/> </a>
     </span>
     <span style="margin-right: 10px; margin-bottom: 10px;">
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" title="TypeScript"/>
       </a>
     </span>
-    <span style="margin-right: 10px; margin-bottom: 10px;">
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-      </a>
-    </span>
-    <span style="margin-right: 10px; margin-bottom: 10px;">
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-      </a>
-    </span>
-    <span style="margin-right: 10px; margin-bottom: 10px;">
-      <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-      </a>
-    </span>
-    <span style="margin-right: 10px; margin-bottom: 10px;">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-      </a>
-    </span>
-        <span style="margin-right: 10px; margin-bottom: 10px;">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      </a>
-    </span>
-    <span style="margin-right: 10px; margin-bottom: 10px;">
-      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-      </a>
-    </span>
-    <span style="margin-right: 10px; margin-bottom: 10px;">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-      </a>
-    </span>
-    <span style="margin-right: 10px; margin-bottom: 10px;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      </a>
-    </span>
-    <span style="margin-right: 10px; margin-bottom: 10px;">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-      </a>
-    </span>
-    <span style="margin-right: 10px; margin-bottom: 10px;">
-      <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/>
-      </a>
-    </span>
-    <span style="margin-right: 10px; margin-bottom: 10px;">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-      </a>
-    </span>
-    <span style="margin-right: 10px; margin-bottom: 10px;">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a>
-    </span>
-    <span style="margin-right: 10px; margin-bottom: 10px;">
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-      </a>
-    </span>
-    <span style="margin-right: 10px; margin-bottom: 10px;">
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark
+  </div>
+</p>
